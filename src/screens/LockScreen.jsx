@@ -1,5 +1,5 @@
 import PinPad from '../components/PinPad'
-import vaultLogo from '../assets/vault-logo.JPG'
+import vaultLogo from '../assets/vault-logo.jpg'
 
 function LockScreen({ enteredPin, loginMessage, onPressKey, onDelete, onSubmit }) {
   return (
